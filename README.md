@@ -1,1 +1,1 @@
-# Project e-commerce
+# E-commerce project
